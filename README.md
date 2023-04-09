@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pallavi000
+- 👋 Hi, I’m bishnu
 - 👀 I’m interested in js
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on ...
