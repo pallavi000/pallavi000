@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning NestJs
 - 💞️ I’m looking to collaborate on MERN stack project
-- 📫 How to reach me ![](bhattaraipallavi4@gmail.com)
+- 📫 How to reach me bhattaraipallavi4@gmail.com
 
 
 ### Highlights ✨
