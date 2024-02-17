@@ -1,8 +1,8 @@
 - 👋 Hi, I’m bishnu
-- 👀 I’m interested in js
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bhattaraipallavi4@gmail.com
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning NestJs
+- 💞️ I’m looking to collaborate on MERN stack project
+- 📫 How to reach me ![](bhattaraipallavi4@gmail.com)
 
 
 ### Highlights ✨
